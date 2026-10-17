@@ -1,6 +1,6 @@
 # 🧠 AutoCure
 ### Autonomous CI/CD Healing Agent
-Built for RIFT 2026 Hackathon — AI/ML Track
+
 
 AutoCure is an AI-powered autonomous DevOps platform that detects, fixes, validates, and iterates on failing repositories — without human intervention.
 
@@ -104,8 +104,8 @@ Rift_AutoCure/
 # 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Sumits-Cosmos/Rift_AutoCure.git
-cd Rift_AutoCure
+git clone https://github.com/ukg1911/Auto_Cure.git
+cd  Auto_Cure
 ```
 
 ---
